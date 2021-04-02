@@ -5,12 +5,12 @@
 - 🔭 I’m currently working on a Jekyll Static site genration!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: In my spare time I wrench on cars
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: In my spare time [I wrench on cars](http://300zxproject.com)
 
 ### Connect with me:
 
-<a href=https://www.linkedin.com/in/landonjurgens><img align="left" alt="Landon | LinkedIn" width="22px" fill=orange src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href=https://www.linkedin.com/in/landonjurgens><svg align="left" alt="Landon | LinkedIn" width="22px" fill="#0A66C2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <br>
 
 ### Languages and Tools:
