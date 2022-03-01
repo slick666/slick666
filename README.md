@@ -3,10 +3,9 @@
 ## I'm a Developer, Puzzle-solver and Teacher!
 
 - 🔭 I’m currently working on a Jekyll Static site genration!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: In my spare time [I wrench on cars](http://300zxproject.com)
+- 🌱 I’m currently learning Golang
+- 🥅 2022 Goals: Become proficient in Golang
+- ⚡ Fun fact: In my spare time [I wrench on cars](http://300zxproject.com) 🔧
 
 ### Connect with me:
 
